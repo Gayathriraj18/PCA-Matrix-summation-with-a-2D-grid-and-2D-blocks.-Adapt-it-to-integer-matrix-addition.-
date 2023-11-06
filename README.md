@@ -172,7 +172,7 @@ CHECK(cudaDeviceReset());
 
 return (0);
 }
-``
+```
 
 ## Output:
 
