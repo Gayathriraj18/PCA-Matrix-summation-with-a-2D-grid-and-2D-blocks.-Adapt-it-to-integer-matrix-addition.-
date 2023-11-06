@@ -18,8 +18,8 @@ To implement Matrix summation with 2D grids and blocks.
 
 # PROGRAM :
 
-# Developed by : Gayathri A
-# Register Number : 212221230028
+Developed by : Gayathri A
+Register Number : 212221230028
 
 ```
 #include "common.h"
